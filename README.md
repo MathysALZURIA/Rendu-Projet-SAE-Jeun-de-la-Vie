@@ -13,4 +13,4 @@ Vous trouverez ici :
   - 1 exécutable
   - 1 fichier .fig
   - Les sources :
-    - Code de l'application (workspace)
+    - Code de l'application (projet Java / JavaFx)
